@@ -48,7 +48,8 @@ h1#hi {
 	letter-spacing: 4px;
 }
 
-.laLogo {
+.laLogo img {
+	width: 50%;
 	margin-top: 45px;
 }
 
